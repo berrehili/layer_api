@@ -5,7 +5,6 @@
 ## Install (Debian)
 
 $ sh install.sh
-$ sh run.sh ()
 
 ## Install (Other OS)
 
@@ -18,6 +17,7 @@ pip install -r requirements.txt
 
 
 ## Run (edit databases settings in settings.py before first launch)
+$ sh run.sh ()
 
 ## API Endpoints
 
