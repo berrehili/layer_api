@@ -18,7 +18,9 @@ To log in to the machine run:
 
     vagrant ssh
 
-## Install & run
+## Install
+
+Install dependencies
 
 $ sh install.sh
 
@@ -26,6 +28,8 @@ $ sh install.sh
 ## Run (edit databases settings in settings.py and import db before first launch )
 
 $ sh run.sh
+
+
 ## API Endpoints
 
 
