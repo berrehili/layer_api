@@ -2,11 +2,12 @@
 # Layer API
 
 
-## Install & run (Debian)
-$ sh install.sh
-$ sh run.sh
+## Install (Debian)
 
-## Install(Other os)
+$ sh install.sh
+$ sh run.sh ()
+
+## Install (Other OS)
 
 Required dependencies:
 	- mysql
@@ -16,6 +17,7 @@ Required dependencies:
 pip install -r requirements.txt
 
 
+## Run (edit databases settings in settings.py before first launch)
 
 ## API Endpoints
 
