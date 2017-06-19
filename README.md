@@ -2,8 +2,16 @@
 # Layer API
 
 
-## Install
-$ pip install -r requirements.txt
+## Install & run (Debian)
+$ sh install.sh
+$ sh run.sh
+
+## Install)(Unix)
+pip install -r requirements.txt
+Required dependencies:
+	- mysql
+
+
 
 
 ## API Endpoints
