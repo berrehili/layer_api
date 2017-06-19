@@ -6,11 +6,14 @@
 $ sh install.sh
 $ sh run.sh
 
-## Install)(Unix)
-pip install -r requirements.txt
+## Install(Other os)
+
 Required dependencies:
 	- mysql
+	- python pip
+	- python 2.7
 
+pip install -r requirements.txt
 
 
 
