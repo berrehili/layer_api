@@ -1,24 +1,31 @@
 
 # Layer API
 
+## Prerequisites
 
-## Install (Debian)
+[VirtualBox](https://www.virtualbox.org/) and [Vagrant](http://www.vagrantup.com/) (minimum version 1.6)
+Other providers, like VMWare may work, not tested!
+
+
+
+## Up and SSH
+
+To start the vagrant box run:
+
+    vagrant up
+
+To log in to the machine run:
+
+    vagrant ssh
+
+## Install & run
 
 $ sh install.sh
 
-## Install (Other OS)
 
-Required dependencies:
-	- mysql
-	- python pip
-	- python 2.7
+## Run (edit databases settings in settings.py and import db before first launch )
 
-pip install -r requirements.txt
-
-
-## Run (edit databases settings in settings.py before first launch)
-$ sh run.sh ()
-
+$ sh run.sh
 ## API Endpoints
 
 
