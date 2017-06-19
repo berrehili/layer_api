@@ -4,7 +4,5 @@
 | ENDPOINT    		   |  Description    	  | Parameters			 				  							|
 | ---------------------| ---------------------| ----------------------------------------------------------------|
 | /register   		   | Create user		  |	username,password,firstname,lastname,birthday,email,phone_number|
-| ---------------------| ---------------------|	----------------------------------------------------------------|
-| /oauth2/access_token | Generate access token| client_id,username,password,grant_type                     		| 
-| ---------------------| ---------------------|	----------------------------------------------------------------|
+| /oauth2/access_token | Generate access token| client_id,username,password,grant_type| 	----------------------------------------------------------------|
 | /update  
