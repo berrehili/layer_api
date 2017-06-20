@@ -4,7 +4,6 @@
 ## Prerequisites
 
 [VirtualBox](https://www.virtualbox.org/) and [Vagrant](http://www.vagrantup.com/) (minimum version 1.6)
-Other providers, like VMWare may work, not tested!
 
 
 
